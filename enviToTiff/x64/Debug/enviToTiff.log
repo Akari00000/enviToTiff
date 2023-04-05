@@ -1,0 +1,10 @@
+﻿  源.cpp
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(202,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(203,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(264,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(265,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(268,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(269,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(364,22): warning C4244: “=”: 从“uint64_t”转换到“uint16_t”，可能丢失数据
+E:\c++\enviToTiff\enviToTiff\EnviToTiff.h(365,22): warning C4244: “=”: 从“uint64_t”转换到“uint16_t”，可能丢失数据
+  enviToTiff.vcxproj -> E:\c++\enviToTiff\x64\Debug\enviToTiff.exe
